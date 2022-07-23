@@ -1,0 +1,17 @@
+C:\Users\amuyi\Documents\GitHub\CS223\not-to-do\not-to-do\bin\Debug\net6.0-windows\not-to-do.exe
+C:\Users\amuyi\Documents\GitHub\CS223\not-to-do\not-to-do\bin\Debug\net6.0-windows\not-to-do.deps.json
+C:\Users\amuyi\Documents\GitHub\CS223\not-to-do\not-to-do\bin\Debug\net6.0-windows\not-to-do.runtimeconfig.json
+C:\Users\amuyi\Documents\GitHub\CS223\not-to-do\not-to-do\bin\Debug\net6.0-windows\not-to-do.dll
+C:\Users\amuyi\Documents\GitHub\CS223\not-to-do\not-to-do\bin\Debug\net6.0-windows\not-to-do.pdb
+C:\Users\amuyi\Documents\GitHub\CS223\not-to-do\not-to-do\obj\Debug\net6.0-windows\not-to-do.csproj.AssemblyReference.cache
+C:\Users\amuyi\Documents\GitHub\CS223\not-to-do\not-to-do\obj\Debug\net6.0-windows\not_to_do.Form1.resources
+C:\Users\amuyi\Documents\GitHub\CS223\not-to-do\not-to-do\obj\Debug\net6.0-windows\not-to-do.csproj.GenerateResource.cache
+C:\Users\amuyi\Documents\GitHub\CS223\not-to-do\not-to-do\obj\Debug\net6.0-windows\not-to-do.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amuyi\Documents\GitHub\CS223\not-to-do\not-to-do\obj\Debug\net6.0-windows\not-to-do.AssemblyInfoInputs.cache
+C:\Users\amuyi\Documents\GitHub\CS223\not-to-do\not-to-do\obj\Debug\net6.0-windows\not-to-do.AssemblyInfo.cs
+C:\Users\amuyi\Documents\GitHub\CS223\not-to-do\not-to-do\obj\Debug\net6.0-windows\not-to-do.csproj.CoreCompileInputs.cache
+C:\Users\amuyi\Documents\GitHub\CS223\not-to-do\not-to-do\obj\Debug\net6.0-windows\not-to-do.dll
+C:\Users\amuyi\Documents\GitHub\CS223\not-to-do\not-to-do\obj\Debug\net6.0-windows\refint\not-to-do.dll
+C:\Users\amuyi\Documents\GitHub\CS223\not-to-do\not-to-do\obj\Debug\net6.0-windows\not-to-do.pdb
+C:\Users\amuyi\Documents\GitHub\CS223\not-to-do\not-to-do\obj\Debug\net6.0-windows\not-to-do.genruntimeconfig.cache
+C:\Users\amuyi\Documents\GitHub\CS223\not-to-do\not-to-do\obj\Debug\net6.0-windows\ref\not-to-do.dll

@@ -1,0 +1,22 @@
+D:\! Shit Stuff Made By Me !\not to do\bin\Debug\not to do.exe.config
+D:\! Shit Stuff Made By Me !\not to do\bin\Debug\not to do.exe
+D:\! Shit Stuff Made By Me !\not to do\bin\Debug\not to do.pdb
+D:\! Shit Stuff Made By Me !\not to do\obj\Debug\not to do.csproj.AssemblyReference.cache
+D:\! Shit Stuff Made By Me !\not to do\obj\Debug\not to do.csproj.SuggestedBindingRedirects.cache
+D:\! Shit Stuff Made By Me !\not to do\obj\Debug\not_to_do.Form1.resources
+D:\! Shit Stuff Made By Me !\not to do\obj\Debug\not_to_do.Properties.Resources.resources
+D:\! Shit Stuff Made By Me !\not to do\obj\Debug\not to do.csproj.GenerateResource.cache
+D:\! Shit Stuff Made By Me !\not to do\obj\Debug\not to do.csproj.CoreCompileInputs.cache
+D:\! Shit Stuff Made By Me !\not to do\obj\Debug\not to do.exe
+D:\! Shit Stuff Made By Me !\not to do\obj\Debug\not to do.pdb
+C:\Users\amuyi\Downloads\Compressed\todo-list-main\todo-list-main\bin\Debug\not to do.exe.config
+C:\Users\amuyi\Downloads\Compressed\todo-list-main\todo-list-main\bin\Debug\not to do.exe
+C:\Users\amuyi\Downloads\Compressed\todo-list-main\todo-list-main\bin\Debug\not to do.pdb
+C:\Users\amuyi\Downloads\Compressed\todo-list-main\todo-list-main\obj\Debug\not to do.csproj.AssemblyReference.cache
+C:\Users\amuyi\Downloads\Compressed\todo-list-main\todo-list-main\obj\Debug\not to do.csproj.SuggestedBindingRedirects.cache
+C:\Users\amuyi\Downloads\Compressed\todo-list-main\todo-list-main\obj\Debug\not_to_do.Form1.resources
+C:\Users\amuyi\Downloads\Compressed\todo-list-main\todo-list-main\obj\Debug\not_to_do.Properties.Resources.resources
+C:\Users\amuyi\Downloads\Compressed\todo-list-main\todo-list-main\obj\Debug\not to do.csproj.GenerateResource.cache
+C:\Users\amuyi\Downloads\Compressed\todo-list-main\todo-list-main\obj\Debug\not to do.csproj.CoreCompileInputs.cache
+C:\Users\amuyi\Downloads\Compressed\todo-list-main\todo-list-main\obj\Debug\not to do.exe
+C:\Users\amuyi\Downloads\Compressed\todo-list-main\todo-list-main\obj\Debug\not to do.pdb
