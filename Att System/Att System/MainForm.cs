@@ -12,6 +12,11 @@ namespace Att_System
         {
             LoginFrm newLogin = new LoginFrm();
             newLogin.ShowDialog();
+
+            if (newLogin.loginFlag == false)
+            {
+                Close();
+            }
         }
     }
 }
