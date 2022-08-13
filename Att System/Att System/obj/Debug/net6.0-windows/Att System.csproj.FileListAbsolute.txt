@@ -1,0 +1,23 @@
+C:\Users\amuyi\Documents\GitHub\CS223\Att System\Att System\bin\Debug\net6.0-windows\Att System.exe
+C:\Users\amuyi\Documents\GitHub\CS223\Att System\Att System\bin\Debug\net6.0-windows\Att System.deps.json
+C:\Users\amuyi\Documents\GitHub\CS223\Att System\Att System\bin\Debug\net6.0-windows\Att System.runtimeconfig.json
+C:\Users\amuyi\Documents\GitHub\CS223\Att System\Att System\bin\Debug\net6.0-windows\Att System.dll
+C:\Users\amuyi\Documents\GitHub\CS223\Att System\Att System\bin\Debug\net6.0-windows\Att System.pdb
+C:\Users\amuyi\Documents\GitHub\CS223\Att System\Att System\bin\Debug\net6.0-windows\MetroFramework.Design.dll
+C:\Users\amuyi\Documents\GitHub\CS223\Att System\Att System\bin\Debug\net6.0-windows\MetroFramework.Fonts.dll
+C:\Users\amuyi\Documents\GitHub\CS223\Att System\Att System\bin\Debug\net6.0-windows\MetroFramework.dll
+C:\Users\amuyi\Documents\GitHub\CS223\Att System\Att System\obj\Debug\net6.0-windows\Att System.csproj.AssemblyReference.cache
+C:\Users\amuyi\Documents\GitHub\CS223\Att System\Att System\obj\Debug\net6.0-windows\Att_System.LoginFrm.resources
+C:\Users\amuyi\Documents\GitHub\CS223\Att System\Att System\obj\Debug\net6.0-windows\Att_System.MainForm.resources
+C:\Users\amuyi\Documents\GitHub\CS223\Att System\Att System\obj\Debug\net6.0-windows\Att_System.Properties.Resources.resources
+C:\Users\amuyi\Documents\GitHub\CS223\Att System\Att System\obj\Debug\net6.0-windows\Att System.csproj.GenerateResource.cache
+C:\Users\amuyi\Documents\GitHub\CS223\Att System\Att System\obj\Debug\net6.0-windows\Att System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amuyi\Documents\GitHub\CS223\Att System\Att System\obj\Debug\net6.0-windows\Att System.AssemblyInfoInputs.cache
+C:\Users\amuyi\Documents\GitHub\CS223\Att System\Att System\obj\Debug\net6.0-windows\Att System.AssemblyInfo.cs
+C:\Users\amuyi\Documents\GitHub\CS223\Att System\Att System\obj\Debug\net6.0-windows\Att System.csproj.CoreCompileInputs.cache
+C:\Users\amuyi\Documents\GitHub\CS223\Att System\Att System\obj\Debug\net6.0-windows\Att System.csproj.CopyComplete
+C:\Users\amuyi\Documents\GitHub\CS223\Att System\Att System\obj\Debug\net6.0-windows\Att System.dll
+C:\Users\amuyi\Documents\GitHub\CS223\Att System\Att System\obj\Debug\net6.0-windows\refint\Att System.dll
+C:\Users\amuyi\Documents\GitHub\CS223\Att System\Att System\obj\Debug\net6.0-windows\Att System.pdb
+C:\Users\amuyi\Documents\GitHub\CS223\Att System\Att System\obj\Debug\net6.0-windows\Att System.genruntimeconfig.cache
+C:\Users\amuyi\Documents\GitHub\CS223\Att System\Att System\obj\Debug\net6.0-windows\ref\Att System.dll
