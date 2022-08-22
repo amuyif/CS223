@@ -1,0 +1,15 @@
+C:\Users\adoni\OneDrive\Documents\GitHub\CSharp-Assignemnt-3\Circle and Square\Circle and Square\bin\Debug\net6.0\Circle and Square.exe
+C:\Users\adoni\OneDrive\Documents\GitHub\CSharp-Assignemnt-3\Circle and Square\Circle and Square\bin\Debug\net6.0\Circle and Square.deps.json
+C:\Users\adoni\OneDrive\Documents\GitHub\CSharp-Assignemnt-3\Circle and Square\Circle and Square\bin\Debug\net6.0\Circle and Square.runtimeconfig.json
+C:\Users\adoni\OneDrive\Documents\GitHub\CSharp-Assignemnt-3\Circle and Square\Circle and Square\bin\Debug\net6.0\Circle and Square.dll
+C:\Users\adoni\OneDrive\Documents\GitHub\CSharp-Assignemnt-3\Circle and Square\Circle and Square\bin\Debug\net6.0\Circle and Square.pdb
+C:\Users\adoni\OneDrive\Documents\GitHub\CSharp-Assignemnt-3\Circle and Square\Circle and Square\obj\Debug\net6.0\Circle and Square.csproj.AssemblyReference.cache
+C:\Users\adoni\OneDrive\Documents\GitHub\CSharp-Assignemnt-3\Circle and Square\Circle and Square\obj\Debug\net6.0\Circle and Square.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adoni\OneDrive\Documents\GitHub\CSharp-Assignemnt-3\Circle and Square\Circle and Square\obj\Debug\net6.0\Circle and Square.AssemblyInfoInputs.cache
+C:\Users\adoni\OneDrive\Documents\GitHub\CSharp-Assignemnt-3\Circle and Square\Circle and Square\obj\Debug\net6.0\Circle and Square.AssemblyInfo.cs
+C:\Users\adoni\OneDrive\Documents\GitHub\CSharp-Assignemnt-3\Circle and Square\Circle and Square\obj\Debug\net6.0\Circle and Square.csproj.CoreCompileInputs.cache
+C:\Users\adoni\OneDrive\Documents\GitHub\CSharp-Assignemnt-3\Circle and Square\Circle and Square\obj\Debug\net6.0\Circle and Square.dll
+C:\Users\adoni\OneDrive\Documents\GitHub\CSharp-Assignemnt-3\Circle and Square\Circle and Square\obj\Debug\net6.0\refint\Circle and Square.dll
+C:\Users\adoni\OneDrive\Documents\GitHub\CSharp-Assignemnt-3\Circle and Square\Circle and Square\obj\Debug\net6.0\Circle and Square.pdb
+C:\Users\adoni\OneDrive\Documents\GitHub\CSharp-Assignemnt-3\Circle and Square\Circle and Square\obj\Debug\net6.0\Circle and Square.genruntimeconfig.cache
+C:\Users\adoni\OneDrive\Documents\GitHub\CSharp-Assignemnt-3\Circle and Square\Circle and Square\obj\Debug\net6.0\ref\Circle and Square.dll
