@@ -1,0 +1,17 @@
+C:\Users\amuyi\Documents\GitHub\CS223\to-do-list\to-do-list\bin\Debug\net6.0-windows\to-do-list.exe
+C:\Users\amuyi\Documents\GitHub\CS223\to-do-list\to-do-list\bin\Debug\net6.0-windows\to-do-list.deps.json
+C:\Users\amuyi\Documents\GitHub\CS223\to-do-list\to-do-list\bin\Debug\net6.0-windows\to-do-list.runtimeconfig.json
+C:\Users\amuyi\Documents\GitHub\CS223\to-do-list\to-do-list\bin\Debug\net6.0-windows\to-do-list.dll
+C:\Users\amuyi\Documents\GitHub\CS223\to-do-list\to-do-list\bin\Debug\net6.0-windows\to-do-list.pdb
+C:\Users\amuyi\Documents\GitHub\CS223\to-do-list\to-do-list\obj\Debug\net6.0-windows\to-do-list.csproj.AssemblyReference.cache
+C:\Users\amuyi\Documents\GitHub\CS223\to-do-list\to-do-list\obj\Debug\net6.0-windows\to_do_list.Form1.resources
+C:\Users\amuyi\Documents\GitHub\CS223\to-do-list\to-do-list\obj\Debug\net6.0-windows\to-do-list.csproj.GenerateResource.cache
+C:\Users\amuyi\Documents\GitHub\CS223\to-do-list\to-do-list\obj\Debug\net6.0-windows\to-do-list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amuyi\Documents\GitHub\CS223\to-do-list\to-do-list\obj\Debug\net6.0-windows\to-do-list.AssemblyInfoInputs.cache
+C:\Users\amuyi\Documents\GitHub\CS223\to-do-list\to-do-list\obj\Debug\net6.0-windows\to-do-list.AssemblyInfo.cs
+C:\Users\amuyi\Documents\GitHub\CS223\to-do-list\to-do-list\obj\Debug\net6.0-windows\to-do-list.csproj.CoreCompileInputs.cache
+C:\Users\amuyi\Documents\GitHub\CS223\to-do-list\to-do-list\obj\Debug\net6.0-windows\to-do-list.dll
+C:\Users\amuyi\Documents\GitHub\CS223\to-do-list\to-do-list\obj\Debug\net6.0-windows\refint\to-do-list.dll
+C:\Users\amuyi\Documents\GitHub\CS223\to-do-list\to-do-list\obj\Debug\net6.0-windows\to-do-list.pdb
+C:\Users\amuyi\Documents\GitHub\CS223\to-do-list\to-do-list\obj\Debug\net6.0-windows\to-do-list.genruntimeconfig.cache
+C:\Users\amuyi\Documents\GitHub\CS223\to-do-list\to-do-list\obj\Debug\net6.0-windows\ref\to-do-list.dll
